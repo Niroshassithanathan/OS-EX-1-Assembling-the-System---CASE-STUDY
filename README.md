@@ -19,8 +19,6 @@ The First Step In Assembling A Computer Is To Open The Computer Case. To Open Th
 
 ![image](https://github.com/Niroshassithanathan/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/121418437/417ccc30-0297-4971-845e-ef35c3b9160d)
 
-![image](https://github.com/Niroshassithanathan/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/121418437/452195ba-ed6b-4dc2-907a-c171422d9cce)
-
 ## Step 2: Install The Power Supply
 The Next Step Is To Install A Power Supply. There Are Usually Four Screws That Attach .The Power Supply To The Case.
 
